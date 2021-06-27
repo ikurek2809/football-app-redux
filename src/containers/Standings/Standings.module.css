@@ -1,0 +1,12 @@
+.changeStandingsButton {
+    text-decoration: none;
+    border: none;
+    font-size: 16px;
+    background-color: #E3AE57;
+    color: #232B2B;
+    padding: 5px 10px;
+}
+
+.changeStandingsButton:hover{
+    cursor: pointer;
+}
